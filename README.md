@@ -1,4 +1,4 @@
-This project was created based on the tutorial from the YouTube video titled "Securing Spring Boot Microservices with Keycloak using OpenID | OAuth2.0 | JavaTechie", available at [https://www.youtube.com/watch?v=1aWhYEynZQw](https://www.youtube.com/watch?v=La082JsJoH4).
+This project was created based on the tutorial from the YouTube video titled "Secure Your Microservices Using Keycloak | Spring Cloud Gateway | JWT | JavaTechie", available at https://www.youtube.com/watch?v=KpITcN7O53Y&list=PLVz2XdJiJQxxWhFkucZBoMxeYE6qTgEF8&index=17.
 
 # jwt-apigateway-security
 

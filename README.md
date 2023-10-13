@@ -1,4 +1,4 @@
-This project was created based on the tutorial from the YouTube video titled "Secure Your Microservices Using Keycloak | Spring Cloud Gateway | JWT | JavaTechie", available at https://www.youtube.com/watch?v=KpITcN7O53Y&list=PLVz2XdJiJQxxWhFkucZBoMxeYE6qTgEF8&index=17.
+This project was created based on the tutorial from the YouTube video titled "Secure Your Microservices Using Keycloak | Spring Cloud Gateway | JWT | JavaTechie", available at [https://www.youtube.com/watch?v=KpITcN7O53Y&list=PLVz2XdJiJQxxWhFkucZBoMxeYE6qTgEF8](https://www.youtube.com/watch?v=KpITcN7O53Y).
 
 # jwt-apigateway-security
 
